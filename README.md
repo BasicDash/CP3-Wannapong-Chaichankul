@@ -1,2 +1,2 @@
 # CP3-Wannapong-Chaichankul
-Exercise 4 : ปฏิบัติการทดสอบการใช้งานตัวแปร BorntoDev Python
+Exercise คอร์สเรียน Complete Python 3 Programming โดย BorntoDev
